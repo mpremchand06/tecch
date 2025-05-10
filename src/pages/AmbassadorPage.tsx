@@ -1,4 +1,4 @@
-import React, { useLayoutEffect } from 'react';
+import { useLayoutEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Users, Award, Star, Target, Zap, Gift } from 'lucide-react';
 import GlitchText from '../components/effects/GlitchText';

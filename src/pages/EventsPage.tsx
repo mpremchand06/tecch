@@ -1,4 +1,4 @@
-import React, { useLayoutEffect } from 'react';
+import { useLayoutEffect } from 'react';
 import Events from '../components/Events';
 import Gallery from '../components/Gallery';
 import Contact from '../components/Contact';
